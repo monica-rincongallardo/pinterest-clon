@@ -1,2 +1,2 @@
 # pinterest-clon
-proyecto creado en tecnolochicas pro simulando página principal de pinterest
+Project created in Tecnolochicas Pro bootcamp simulating the main page of Pinterest.
